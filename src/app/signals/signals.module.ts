@@ -19,7 +19,7 @@ import { SideMenuComponent } from './components/side-menu/side-menu.component';
   ],
   imports: [
     CommonModule,
-    SignalsRoutingModule
+    SignalsRoutingModule,
   ]
 })
 export class SignalsModule { }
